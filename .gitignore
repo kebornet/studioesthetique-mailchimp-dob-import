@@ -1,0 +1,8 @@
+config.php
+vendor/
+attachments/*
+!attachments/.gitkeep
+messageIds.txt
+time.txt
+client_secret_*.json
+token.json
